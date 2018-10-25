@@ -10,7 +10,7 @@ public class CompareStrings {
     }
 
     private static boolean isEmpty(String s){
-        if (s.equals("") || s.equals("null") || s.equals("NULL") || s.equals("Nil") || s.equals("None"))
+        if ( s == null || s.equals("") || s.equals("null") || s.equals("NULL") || s.equals("Nil") || s.equals("None"))
             return true;
         for (Character ch : s.toCharArray()){
             if (!Character.isLetter(ch)){
