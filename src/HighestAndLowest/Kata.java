@@ -1,6 +1,7 @@
 package HighestAndLowest;
 
 import java.util.Arrays;
+import java.util.IntSummaryStatistics;
 
 public class Kata {
     public static String HighAndLow(String numbers) {
