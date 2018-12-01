@@ -1,3 +1,3 @@
 # CodeWars
 My solutions for codewars katas</br>
-[My profile](https://www.codewars.com/users/Wili)
+[Profile](https://www.codewars.com/users/Wili)
